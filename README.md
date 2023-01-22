@@ -9,6 +9,10 @@ Random Wallpapers is a windows application that fetches a random wallpaper from 
 </div>
 
 ---
+## Usage:
+![[Random Wallpaper.gif]]
+
+---
 ## Features:
 * Many different online sources with filters
     * Unsplash (https://unsplash.com/)
