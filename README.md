@@ -10,7 +10,7 @@ Random Wallpapers is a windows application that fetches a random wallpaper from 
 
 ---
 ## Usage:
-![[Random Wallpaper.gif]]
+![Random Wallpaper](https://github.com/Ay0ubN0uri/Random-Wallpaper/blob/master/Random%20Wallpaper.gif)
 
 ---
 ## Features:
